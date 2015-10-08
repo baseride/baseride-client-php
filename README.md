@@ -1,2 +1,2 @@
 # baseride-client-php
-The Baseride server client for PHP language
+The [Baseride](https://baseride.com/) server client for PHP language
